@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1310944092 source:c:\documents and settings\firexware\desktop\winpassgen\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<wincrypt.h>
+	<tchar.h>
+	<intrin.h>
+	<psapi.h>
+	<queue>
+	"resource.h"
+	"sha256.h"
+
+1310944573 c:\documents and settings\firexware\desktop\winpassgen\resource.h
+
+1310944739 source:c:\documents and settings\firexware\desktop\winpassgen\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1310875235 c:\documents and settings\firexware\desktop\winpassgen\sha256.h
+
+1310875852 source:c:\documents and settings\firexware\desktop\winpassgen\sha256.c
+	<string.h>
+	"sha256.h"
+	<stdlib.h>
+	<stdio.h>
+
+1320879841 source:c:\documents and settings\firexware\desktop\wk\winpassgen\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1320879841 c:\documents and settings\firexware\desktop\wk\winpassgen\resource.h
+
+1320609711 source:c:\documents and settings\firexware\desktop\wk\winpassgen\sha256.c
+	<string.h>
+	"sha256.h"
+	<stdlib.h>
+	<stdio.h>
+
+1310871635 c:\documents and settings\firexware\desktop\wk\winpassgen\sha256.h
+
+1320612561 source:c:\documents and settings\firexware\desktop\wk\winpassgen\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<wincrypt.h>
+	<tchar.h>
+	<intrin.h>
+	<psapi.h>
+	<queue>
+	"resource.h"
+	"nessie.h"
+
+1320879841 source:c:\documents and settings\firexware\desktop\wk\winpassgen\whirlpool.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"nessie.h"
+
+1320879841 c:\documents and settings\firexware\desktop\wk\winpassgen\nessie.h
+	<limits.h>
+
